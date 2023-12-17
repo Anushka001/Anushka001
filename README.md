@@ -9,9 +9,8 @@
 My name is **Anushka Ayachit**, I'm 22 years old **B.Tech** graduate, majoring in **Computer Science** from Indore, India.
 I am currently working on upskilling myself to become industry-ready. My passion lies in the software world, and I thrive on exploring new technologies and honing my skills. One aspect that sets me apart is my willingness to step out of my comfort zone. I firmly believe in pushing boundaries to deliver exceptional quality work within given deadlines. I continuously challenge myself to learn and grow, embracing new opportunities and taking on diverse projects that expand my knowledge and skill set.
 
-
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
+<br>
 
 - 🌱 I’m currently working on
 - <div align="center">
@@ -32,8 +31,6 @@ I am currently working on upskilling myself to become industry-ready. My passion
 		</tr>
 	</table>
 </div>
-
-- 🌱 I have knowledge of (https://skills.thijs.gg/icons?i=c)](https://skills.thijs.gg)
   
 - 💬 Ask me about programming in general, I am always available to help and learn together.
 
