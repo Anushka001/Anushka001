@@ -1,21 +1,4 @@
-### Hi there 👋
-
-<!--
-**Anushka001/Anushka001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hello World!
+## Hello!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anushka-ayachit/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)]([https://leetcode.com/anushkaayachit00/)
@@ -45,10 +28,9 @@ I am currently working on upskilling myself to become industry-ready. My passion
 	</table>
 </div>
 
-- 🌱 I have knowledge of (https://skills.thijs.gg/icons?i=c,cpp,py)](https://skills.thijs.gg)
+- 🌱 I have knowledge of (https://skills.thijs.gg/icons?i=c)](https://skills.thijs.gg)
   
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anushkaayachit00@gmail.com)
+- 💬 Ask me about programming in general, I am always available to help and learn together.
 
 - 📫 How to reach me:
    - [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)]([Discord](https://discord.com/)): anushkayachit
