@@ -43,5 +43,7 @@ I am currently working on upskilling myself to become industry-ready. My passion
 
 <br><br>
 Thank you for coming. 🙏🏻
+
 Feel free to connect with me. 🔗
+
 Have a good day! 🌼
