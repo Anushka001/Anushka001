@@ -41,5 +41,7 @@ I am currently working on upskilling myself to become industry-ready. My passion
   <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anushka001&theme=date-night)](https://git.io/streak-stats)
 
-<br><br><br>
-- Thank you for coming. Have a good day 🙏🏻
+<br><br>
+Thank you for coming. 🙏🏻
+Feel free to connect with me. 🔗
+Have a good day! 🌼
