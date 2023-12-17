@@ -35,6 +35,9 @@ I am currently working on upskilling myself to become industry-ready. My passion
 - 💬 Ask me about programming in general, I am always available to help and learn together.
 
 - 📫 How to reach me:
-   - [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)]([Discord](https://discord.com/)): anushkayachit
-
+   - [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)]([Discord](https://discord.com/))  : anushkayachit
+     
+- Here is my GitHub journey so far.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anushka001&theme=github-dark-blue)](https://git.io/streak-stats)>
+
+- Thank you for coming. Have a good day 🙏🏻
