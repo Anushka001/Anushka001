@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anushkaayachit00@gmail.com)
 
 
-My name is **Anushka Ayachit**, I'm 22 years old and I'm a **B.Tech** grad majoring in **Computer Science** from Indore, India.
+My name is **Anushka Ayachit**, I'm 22 years old **B.Tech** graduate, majoring in **Computer Science** from Indore, India.
 I am currently working on upskilling myself to become industry-ready. My passion lies in the software world, and I thrive on exploring new technologies and honing my skills. One aspect that sets me apart is my willingness to step out of my comfort zone. I firmly believe in pushing boundaries to deliver exceptional quality work within given deadlines. I continuously challenge myself to learn and grow, embracing new opportunities and taking on diverse projects that expand my knowledge and skill set.
 
 
