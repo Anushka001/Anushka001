@@ -38,6 +38,8 @@ I am currently working on upskilling myself to become industry-ready. My passion
    - [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)]([Discord](https://discord.com/))  : anushkayachit
      
 - Here is my GitHub journey so far.
+  <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anushka001&theme=github-dark-blue)](https://git.io/streak-stats)>
 
+<br><br><br>
 - Thank you for coming. Have a good day 🙏🏻
