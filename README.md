@@ -1,4 +1,4 @@
-## Hello!
+## Hey fellas!👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anushka-ayachit/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)]([https://leetcode.com/anushkaayachit00/)
